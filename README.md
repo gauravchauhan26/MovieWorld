@@ -6,7 +6,7 @@ A sleek React application that lets users explore trending movies, TV shows, act
 
 ## 🔗 Live Website
 
-[Visit Site](https://movieworld4all.netlify.app/) 🚀
+[Visit Site](https://movieworldteaser.netlify.app/) 🚀
 
 ---
 
